@@ -1,0 +1,3 @@
+nuscenes-devkit
+mmcv-full
+mmdet==2.14.0
